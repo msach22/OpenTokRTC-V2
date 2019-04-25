@@ -1,8 +1,8 @@
 {
    "Archiving":{
-      "enabled":false,
+      "enabled":true,
       "archiveManager":{
-         "enabled":false
+         "enabled":true
       }
    },
    "Feedback":{
